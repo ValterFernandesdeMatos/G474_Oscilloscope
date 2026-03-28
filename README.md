@@ -5,3 +5,4 @@ Credits to the excellent work of Dominik Workshop
 https://github.com/Dominik-Workshop/KD-23MTS
 Frequency calculation changed.
 Added outputs for attenuation selector activation.
+I will soon add the front-end circuit with attenuation activated by pins PB3 and PB4 for channel 1 and pins PB10 and PB11 for channel 2.
