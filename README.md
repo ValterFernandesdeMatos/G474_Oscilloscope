@@ -6,3 +6,4 @@ https://github.com/Dominik-Workshop/KD-23MTS
 Frequency calculation changed.
 Added outputs for attenuation selector activation.
 I will soon add the front-end circuit with attenuation activated by pins PB3 and PB4 for channel 1 and pins PB10 and PB11 for channel 2.
+The input circuit I used has been added. Attenuation is achieved by activating the AQY210 via the encoder. I used resistors with common values, and the VPP difference is corrected in the code.
